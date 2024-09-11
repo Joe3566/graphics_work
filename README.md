@@ -2,7 +2,7 @@ Here’s an example of how to document your project setup and workflow in a `REA
 
 ---
 
-# Project Title
+# Graphics Work
 
 A brief description of your project, its purpose, and main features.
 
