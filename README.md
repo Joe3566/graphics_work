@@ -23,7 +23,7 @@ Make sure you have the following installed:
 
    Open your terminal and run:
    ```bash
-   git clone https://github.com/your-repo/project.git
+   git clone https://github.com/victesa/graphics_work.git
    ```
 
 2. **Navigate into the project directory**  
